@@ -2,6 +2,10 @@
 
 An intelligent React application that conducts automated technical interviews for full-stack developer positions. The system features AI-powered question generation, real-time answer evaluation, and comprehensive candidate assessment.
 
+## Live Demo
+
+- **Production**: [swipe-vert.vercel.app](https://swipe-vert.vercel.app)
+
 ## Features
 
 ### For Candidates (Interviewee Tab)
